@@ -1,0 +1,26 @@
+Unterschiede, Verwendung "Lebensdauer" 
+Variablen: 
+	- eine Möglichkeit Daten zu speichern 
+	- wie z.B. Attribute, Parameter und lokale Variable 
+	- unterschiedlich (Lebensdauer des Objekts) 
+
+Attribute: 
+	- sie werden üblicherweise außerhalb einer Methode am Beginn einer Klasse deklariert (Name, Datentyp) 
+	- dauerhafte Speicherung von Information 
+
+Parameter: 
+	- Platzhalter für Eingabewerte der flexiblen Eingabe von Daten bei Aufruf der Methode 
+	- werden in der Kopfzeile einer Methode vereinbart 
+	- nur verfügbar, solange die Methode ausgeführt wird 
+	- Bsp.: methode …(parameter: …)  
+
+Lokale Variable: 
+	- wird als Hilfsvariable innerhalb einer Methode deklariert 
+	- existiert nur, solange die Methode ausgeführt wird; wird sie innerhalb einer Kontrollstruktur definiert, so sind sie nur innerhalb dieser verfügbar 
+
+Konstruktor: 
+	- Initialisierung eines Attributs 
+	- init 
+
+Funktion: 
+	- Methoden, die einen Wert zurückgeben 
